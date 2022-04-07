@@ -1,4 +1,4 @@
-// alert("Bem vindo!")
+alert("Bem vindo!")
 
 var hora = new Date().getHours()
 var saudacao
